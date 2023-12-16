@@ -1,13 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narges
+Hi ! My name is Narges
 ==============================================================================================================================
 
 computer science student
 ------------------------
 
 
-
-* 🌍  I'm based in Tehran
-* ✉️  You can contact me at [nargesghanbarigorji@gmail.com](mailto:nargesghanbarigorji@gmail.com)
 
 ### Skills
 
