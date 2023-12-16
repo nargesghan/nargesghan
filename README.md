@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 computer science student
 ------------------------
 
-Since June of this year, I have been trying to increase my skills in front, network and security. Maybe you think these are not related to each other!!? But I think as a computer science student, I really need to understand computers. I wish myself success.
+
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [nargesghanbarigorji@gmail.com](mailto:nargesghanbarigorji@gmail.com)
